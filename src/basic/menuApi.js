@@ -1,7 +1,7 @@
 const Menu = [
     {
         id:1,
-        Image:"./images/maggi.jpg",
+        Image:"images/maggi.jpg",
         name:"maggi",
         category:"breakfast",
         price:"$12",
@@ -28,7 +28,7 @@ const Menu = [
     },
     {
         id:4,
-        Image:"../images/chola.jpg",
+        Image:"images/chola.jpg",
         name:"chola",
         category:"lunch",
         price:"$12",
@@ -37,7 +37,7 @@ const Menu = [
     },
     {
         id:5,
-        Image:"../images/pizza.jpg",
+        Image:"images/pizza.jpg",
         name:"Pizza",
         category:"evening",
         price:"$12",
@@ -46,7 +46,7 @@ const Menu = [
     },
     {
         id:6,
-        Image:"../images/nonvegthai.jpg",
+        Image:"images/nonvegthai.jpg",
         name:"non-veg Thai",
         category:"dinner",
         price:"$12",
@@ -64,7 +64,7 @@ const Menu = [
     },
     {
         id:8,
-        Image:"../images/nonvegthai.jpg",
+        Image:"images/nonvegthai.jpg",
         name:"maggi",
         category:"breakfast",
         price:"$12",
@@ -91,7 +91,7 @@ const Menu = [
     },
     {
         id:11,
-        Image:"../images/pizza.jpg",
+        Image:"images/pizza.jpg",
         name:"Pizza",
         category:"Afternoon",
         price:"$12",
@@ -100,7 +100,7 @@ const Menu = [
     },
     {
         id:12,
-        Image:"../images/samaso.jpg",
+        Image:"images/samaso.jpg",
         name:"somosa",
         category:"special",
         price:"$10",
